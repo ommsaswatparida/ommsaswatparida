@@ -1,17 +1,17 @@
-# About Me
+# Get to know me 👇🏻
 <!--
   Hi there! Thanks for visiting my profile.
   Minimalist • Professional • Dark Aesthetic
 -->
 
-<h1 align="center">Hey👋, I'm Omm Saswat:) </h1>
+<h1 align="center">Hey👋🏻, I'm Omm Saswat :) </h1>
 <p align="center">
-  <em>Developer • Student • Backend Enthusiast</em>
+  <em>Developer • Student • Techie</em>
 </p>
 
 ---
 
-## 🧠 About Me
+## 🐻‍❄️ About Me
 
 ```bash
 ~ 'Im a 19-year-old Computer Science & Engineering Student.'
@@ -22,13 +22,13 @@
 ---
 
 
-## 🧭 Goals (2025)
+## 🧭 Goals 
 
 - ✅ Publish my first GitHub repository
 - 🎯 Balance College alongside building personal projects 
 - 🧠 Stay consistent with self-learning and documentation
 - 📖 Strengthen DSA & problem-solving skills
-- 🤍 Launch a Business and build an unforgettable personal brand
+- 💡 Launch a Business and build an unforgettable personal brand
 - 🚀 Dive deep into Data Science, AI and Machine Learning in future
 
 ---
@@ -46,9 +46,9 @@
 <details>
   <summary>📂 More About Me</summary>
 
-- 🧠 Aspiring Computer Science nerd  
-- 🤍 In love with Python and it's simplicity 
-- 💻 Loves minimalism, aesthetics, and well-documented code  
+- 💻 Aspiring Computer Science nerd  
+- 🐍 In love with Python and it's simplicity 
+- 🤍 Loves minimalism, aesthetics, and well-documented code  
 - 🧩 Currently learning Java and DSA  
 - 💌 Always curious to learn something cool 
 </details>
