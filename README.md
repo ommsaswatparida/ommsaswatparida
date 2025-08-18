@@ -61,6 +61,8 @@
   <a href="https://www.linkedin.com/in/omm-saswat-parida/" target="_blank"><strong>LinkedIn</strong></a>
   &nbsp;•&nbsp;
   <a href="mailto:your.ommsaswat575@gmail.com"><strong>Email</strong></a>
+  &nbsp;•&nbsp;
+  <a href="www.instagram.com/whiteandbeigelife"><strong>Instagram</strong></a>
 </p>
 
 ---
