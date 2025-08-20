@@ -50,7 +50,8 @@
 - 🐍 In love with Python and it's simplicity 
 - 🤍 Loves minimalism, aesthetics, and well-documented code  
 - 🧩 Currently learning Java and DSA  
-- 💌 Always curious to learn something cool 
+- 💌 Always curious to learn something cool
+  
 </details>
 
 ---
